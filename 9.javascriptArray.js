@@ -8,5 +8,5 @@ console.log(checkArray(true));
 console.log(checkArray(null));
 console.log(checkArray(undefined));
 
-
-
+console.log(typeof[]);//object
+console.log(typeof{});  //object
